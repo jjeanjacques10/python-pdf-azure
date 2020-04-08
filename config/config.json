@@ -3,7 +3,7 @@
         "pdf": "animes.pdf",
         "pages": 1
     },
-    "Azure": {
+    "azure": {
         "Server": "DESKTOP-0TP05S2",
         "Database": "PythonDB"
     }

@@ -1,7 +1,7 @@
 
 # Usando Python para extrair informações de arquivos PDF + Banco de Dados SQL do Azure
 
-As vezes temos dificuldade em conseguir os dados que precisamos, seja para fazer uma análise encima deles ou para utilizar em nosso aplicativo, vou mostrar como extrair dados informações de um PDF e também como enviar o que foi adquirido para o Azure!
+As vezes temos dificuldade em conseguir os dados que precisamos, seja para fazer uma análise encima deles ou para utilizar em nosso aplicativo, vou mostrar como extrair informações de um PDF e também como enviar o que foi adquirido para o Azure!
 
 ### Artigo
 Link para o arquivo no Medium: [https://medium.com/p/2e6bed309629/edit](https://medium.com/p/2e6bed309629/edit)
